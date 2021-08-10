@@ -8,3 +8,6 @@ The LED will blink in accordance with the morse code dots and dashes (i.e dots w
 
 there are two part of codes, one for Transmitter and another for Receiver part.
 
+After running it you need to input the MORSE CODE equivallent to your message which you want to transmitt.
+
+And the same will be encoded and sent through the LED and decoded with an LDR by the help of Arduino and the decoded message will be displayed on the LCD display.
